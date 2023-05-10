@@ -1,5 +1,5 @@
 CREATE TABLE Contacts (
-    "No Header" VARCHAR
+    contact_info VARCHAR
 );
 
 CREATE TABLE Crowdfunding (
